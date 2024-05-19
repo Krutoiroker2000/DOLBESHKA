@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+.sigma {
+   text-align: center; 
+   font-size:60px;
+   font-family: "Comfortaa", sans-serif;
+}
+
+
+
+
+.Zanuda {
+    
+}
+
+
+
+.emae1 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+.emae2 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+.emae3 {
+  padding-left:10px ;
+  padding-right:10px;
+}
+.emae4 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+
+
+
+
+header {
+	background:#07093B ;
+    padding-top:60px ;
+    padding-bottom: 60px;
+    margin-bottom: 0px;
+}
+.giga {
+    border:20px solid white;
+    margin-left: 25%;
+    margin-right: 25%;
+	text-align: center;
+    font-size: 150px;
+    color:white;
+    font-family: sans-serif;
+} 
+main {
+    background-color: #657392;
+    padding:0px;
+}       
+
+
+
+
+}
+.emae {
+font-size: 100px;    
+padding-top: 100px; 
+}
